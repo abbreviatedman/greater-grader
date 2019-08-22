@@ -1,1 +1,1 @@
-# Greater Grader
+# Greater Grader Solution
